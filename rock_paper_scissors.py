@@ -43,8 +43,8 @@ while True:
         print("Computer Won!")
         computer_wins = computer_wins + 1
 
-    print("Player Won:" + str(player_wins) + " times.")
-    print("The Computer Won:" + str(computer_wins) + " times.")
+    print("Player Won: " + str(player_wins) + " times.")
+    print("The Computer Won: " + str(computer_wins) + " times.")
     print("Thank's for playing!")
 
     
